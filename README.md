@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/DikkyRahmadS/DikkyRahmadS/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/DikkyRahmadS/DikkyRahmadS/output/snake.svg" alt="Snake animation" />
 
 ###
