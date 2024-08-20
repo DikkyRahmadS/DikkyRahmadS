@@ -67,3 +67,4 @@
 
 
 ###
+![snake animation](https://github.com/DikkyRahmadS/DikkyRahmadS/blob/output/github-contribution-grid-snake2.svg)
