@@ -5,7 +5,7 @@
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DikkyRahmadS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DikkyRahmadS&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 
@@ -73,3 +73,4 @@
 
 
 ###
+
