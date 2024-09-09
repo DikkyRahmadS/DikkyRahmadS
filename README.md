@@ -9,11 +9,11 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
- ![](https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
