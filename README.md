@@ -4,13 +4,19 @@
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DikkyRahmadS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DikkyRahmadS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ ![](https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
@@ -61,6 +67,7 @@
 </div>
 
 ###
+[![](https://visitcount.itsvg.in/api?id=DikkyRahmadS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br clear="both">
 
