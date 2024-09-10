@@ -7,7 +7,6 @@
 
 <br clear="both">
 
-###
 
 ## 💬 Connect with me
 
