@@ -2,11 +2,11 @@
 
 <h2 align="left">My name is Dikky Rahmad Shafara and I'm a learner who has enthusiast of technology. Interested in new things in technology and try to grow with any experience.  I'm from Malang, East Java, Indonesia.</h2>
 
-###
 [![](https://visitcount.itsvg.in/api?id=DikkyRahmadS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br clear="both">
 
+###
 
 ## 💬 Connect with me
 
