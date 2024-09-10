@@ -9,7 +9,7 @@
 
 ###
 
-###
+## 💬 Connect with me
 
 <div align="left">
   <a href="https://www.instagram.com/dikkyrahmad_/" target="_blank">
@@ -23,6 +23,7 @@
   </a>
 </div>
 
+###
 
 ## 🏆 GitHub Trophies
 
@@ -53,6 +54,7 @@
 
 ###
 
+## ⚡ Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
