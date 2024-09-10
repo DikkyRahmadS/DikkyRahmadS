@@ -10,11 +10,13 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
 </div>
 
 ###
