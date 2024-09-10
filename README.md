@@ -2,13 +2,13 @@
 
 <h2 align="left">My name is Dikky Rahmad Shafara and I'm a learner who has enthusiast of technology. Interested in new things in technology and try to grow with any experience.  I'm from Malang, East Java, Indonesia.</h2>
 
-###
+
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DikkyRahmadS&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
@@ -16,10 +16,15 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-### ✍️ Random Dev Quote
+
+###
+
+## ✍️ Random Dev Quote
+
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
 </div>
+
 ###
 
 <img align="right" height="150" src="https://media.tumblr.com/e51e1fe3377a05884c2912febf92826b/tumblr_inline_mox81asYZU1qz4rgp.gif"  />
