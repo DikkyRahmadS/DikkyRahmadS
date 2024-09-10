@@ -2,6 +2,26 @@
 
 <h2 align="left">My name is Dikky Rahmad Shafara and I'm a learner who has enthusiast of technology. Interested in new things in technology and try to grow with any experience.  I'm from Malang, East Java, Indonesia.</h2>
 
+###
+[![](https://visitcount.itsvg.in/api?id=DikkyRahmadS&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br clear="both">
+
+###
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/dikkyrahmad_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dikkyrahmads@gmail.com&su=Hello&body=Hello" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dikky-rahmad-shafara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 ## 🏆 GitHub Trophies
@@ -61,26 +81,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/dikkyrahmad_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dikkyrahmads@gmail.com&su=Hello&body=Hello" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dikky-rahmad-shafara/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-[![](https://visitcount.itsvg.in/api?id=DikkyRahmadS&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br clear="both">
-
-
-
-###
 
