@@ -49,12 +49,12 @@
 </div>
 
 ###
+## ⚡ Languages and Tools
 
 <img align="right" height="150" src="https://media.tumblr.com/e51e1fe3377a05884c2912febf92826b/tumblr_inline_mox81asYZU1qz4rgp.gif"  />
 
 ###
 
-## ⚡ Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
