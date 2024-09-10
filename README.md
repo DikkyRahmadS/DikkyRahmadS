@@ -6,8 +6,6 @@
 
 <br clear="both">
 
-###
-
 ## 💬 Connect with me
 
 <div align="left">
@@ -39,20 +37,15 @@
   
 </div>
 
-###
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
 </div>
 
-###
 ## ⚡ Languages and Tools
 
 <img align="right" height="150" src="https://media.tumblr.com/e51e1fe3377a05884c2912febf92826b/tumblr_inline_mox81asYZU1qz4rgp.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
