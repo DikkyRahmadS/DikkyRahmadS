@@ -11,14 +11,15 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikkyRahmadS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikkyRahmadS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+</div>
 ###
 
 <img align="right" height="150" src="https://media.tumblr.com/e51e1fe3377a05884c2912febf92826b/tumblr_inline_mox81asYZU1qz4rgp.gif"  />
