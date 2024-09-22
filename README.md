@@ -20,8 +20,6 @@
   </a>
 </div>
 
-###
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=DikkyRahmadS&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
