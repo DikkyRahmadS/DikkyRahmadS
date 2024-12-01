@@ -40,6 +40,7 @@
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
 </div>
 
+
 ## ⚡ Languages and Tools
 
 
